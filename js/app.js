@@ -3,10 +3,6 @@
  * Don't forget to comment code
 */
 // je commence par faire mes variable
-
-
-
-
 // Set, in a variable, the button that controls the display of the modal box  (#modal-toggler)
 const PopUp = document.getElementById('modalToggler');
 // Set, in a variable, the modal box (#modal).
